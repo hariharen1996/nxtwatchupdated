@@ -1,0 +1,29 @@
+.bgDark {
+  background-color: #f4f4f4;
+}
+
+.bgLight {
+  background-color: #231f20;
+}
+
+.theme-icon {
+  border: none;
+  font-size: 25px;
+}
+@media screen and (max-width: 600px) {
+  .theme-icon {
+    font-size: 20px;
+  }
+}
+
+.icon {
+  color: #ffffff;
+}
+
+.icon-dark {
+  color: #181818;
+}
+
+.icon-light {
+  color: #ffffff;
+}

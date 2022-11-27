@@ -1,0 +1,17 @@
+.menu-dark {
+  color: #606060;
+}
+
+.menu-dark:hover {
+  color: #ff0000;
+  transition: 0.4s;
+}
+
+.menu-light {
+  color: #606060;
+}
+
+.menu-light:hover {
+  color: #ff0000;
+  transition: 0.4s;
+}
